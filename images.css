@@ -1,0 +1,35 @@
+ul li a{
+    text-decoration: none;
+     margin: 15px;
+     font-size: 30px;
+     
+}
+ul li{
+    list-style: none;
+
+}
+#images{
+     font-size: 25px;
+     color: purple;
+}
+#audio{
+    font-size: 25px;
+    color: crimson;
+}
+#video{
+    font-size: 25px;
+    color: violet;
+}
+#book{
+    font-size: 25px;
+    color: seagreen;
+}
+#project{
+    font-size: 25px;
+    color: navy;
+}
+img{
+    width: 320px;
+    height: 310px;
+    margin: 20px;
+}
